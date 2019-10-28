@@ -1,24 +1,13 @@
-# to-do-list
+# to-do-list - LAB5
 
-## Project setup
+## Comando para instalação de dependencias do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Comando para rodar o projeto localmente
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Vue.js / Router / Babel / Eslint / Typescript
